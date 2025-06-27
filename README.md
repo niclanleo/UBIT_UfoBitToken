@@ -8,7 +8,7 @@
 
 ---
 
-# UBIT_UfoBitToken
+# UBIT (Ufo Bit Token)
 
 **UBIT_UfoBitToken** is a decentralized token with a fixed total supply of **88,888,888 units**, designed to **never be minted** beyond its original cap. It is deployed on **Starknet**, a Layer 2 scaling solution for Ethereum, and is implemented using the **Cairo** programming language.
 

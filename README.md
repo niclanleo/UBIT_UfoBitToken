@@ -16,13 +16,13 @@
 
 **UBIT** is more than a store of value — it is a **cryptographic proof object**. Its contract, supply mechanics, and user interactions are **verifiable by design**, enabling a **self-proving economic entity**. This means it does not rely on trust in intermediaries but on the **mathematical integrity** of the underlying protocol, representing a **new model of verifiable finance**.
 
-```
+```json
 {
   "name": "Ufo Bit Token",
   "symbol": "UBIT",
   "decimals": 18,
   "address": "0x03ccf029fec1564d78441e3909e1426d6f865cac32346b7c59a01eb111b8e1d7",
   "logo_uri": "https://raw.githubusercontent.com/niclanleo/UBIT_UfoBitToken/refs/heads/main/metadata/logos/mainnet/UBIT.png",
-  "tags": ["erc20"]
+  "voyager_url": "https://voyager.online/contract/0x03ccf029fec1564d78441e3909e1426d6f865cac32346b7c59a01eb111b8e1d7"
 }
 ```
